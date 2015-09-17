@@ -93,7 +93,7 @@ public class InputHandler implements KeyListener, MouseListener {
 
 	@Override
 	public void mouseClicked(MouseEvent e) {
-		
+		//Not used
 	}
 
 	@Override
@@ -111,13 +111,13 @@ public class InputHandler implements KeyListener, MouseListener {
 
 	@Override
 	public void mouseEntered(MouseEvent e) {
-		// TODO Auto-generated method stub
+		//Not used
 		
 	}
 
 	@Override
 	public void mouseExited(MouseEvent e) {
-		// TODO Auto-generated method stub
+		//Not used
 		
 	}
 
